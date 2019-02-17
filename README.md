@@ -58,10 +58,14 @@ There could be some sort of delay, as well as/or a maximum number of upvotes per
 Publishers could stake tokens to payout to reviewers as well
 
 the demo video of Austin Griffiths system for onboarding and giving props
-
 https://youtu.be/cNcSXovVPdg
 
-This is a blog post that goes into incentivized funding pools (https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2) which could be a proposed funding option but probably not one that would be built here. One example that might be similar is moloch that just went to the mainnet today.
+Original paper on Curved Token Bonding by Simon de la Rouvierre: https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5
+
+Blog post that goes into incentivized funding pools utilizing the curved token bonding concept: 
+https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2 
+
+Another example of pool funding for grants that might be similar is moloch that just went to the mainnet recently: 
 https://twitter.com/ameensol/status/1095958134458179584?s=19
 
 IPFS doc hosting?
