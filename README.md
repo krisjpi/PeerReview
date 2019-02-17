@@ -47,20 +47,26 @@ Potential Issues:
 
 
 Notes:
-Peer review system that uses Austin Griffiths work for onboarding and giving props. Could enable well supported feedback to both rise to the top and be remunerated in ETH. 
+Peer review system that uses Austin Griffiths work for onboarding and giving props. Could enable well supported feedback to both rise 
+to the top and be remunerated in ETH. 
 
-Both gets non-users into the ecosystem in a more streamlined way and allows them to contribute, while treating data as labor and remunerating reviews. Funds could come from a pool, or maybe integrated into a bonded token ecosystem.
+Both gets non-users into the ecosystem in a more streamlined way and allows them to contribute, while treating data as labor and 
+remunerating reviews. Funds could come from a pool, or maybe integrated into a bonded token ecosystem.
 
-Users would have to be added to a whitelist somehow, and rather than using their own ETH to give props for good reviews, they instead give an upvote of sorts that then translates into an eth reward from a pool. The pool could be donated, seeded, or whatever, but there should be a layer between the reward and the upvoter to reduce abuse and "buying influence" in the system.
+Users would have to be added to a whitelist somehow, and rather than using their own ETH to give props for good reviews, they instead
+give an upvote of sorts that then translates into an eth reward from a pool. The pool could be donated, seeded, or whatever, but there 
+should be a layer between the reward and the upvoter to reduce abuse and "buying influence" in the system.
 
-There could be some sort of delay, as well as/or a maximum number of upvotes per user per time period. Maybe based on their continued utility (a gamified leveling system maybe? Potential to be voted down or to lose levels from inactivity too)
+There could be some sort of delay, as well as/or a maximum number of upvotes per user per time period. Maybe based on their continued 
+utility (a gamified leveling system maybe? Potential to be voted down or to lose levels from inactivity too)
 
 Publishers could stake tokens to payout to reviewers as well
 
 the demo video of Austin Griffiths system for onboarding and giving props
 https://youtu.be/cNcSXovVPdg
 
-Original paper on Curved Token Bonding by Simon de la Rouvierre: https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5
+Original paper on Curved Token Bonding by Simon de la Rouvierre: 
+https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5
 
 Blog post that goes into incentivized funding pools utilizing the curved token bonding concept: 
 https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2 
