@@ -15,23 +15,35 @@ major academic institution that pays for access.
 with resistance, and with blockchain tech having friction of its own, onboarding new users needs to be as frictionless as possible.
 
 Proposal: 
-By adding incentive layers to the process, we can recognize that contributions to the space is labour. This could have an effect on the speed at which reviews could be done, though this is a theoretical effect based on the incentive layer affecting prioritization and reduction in time required to meet financial needs.
-Verifying large numbers of individuals with valid credentials to whitelist could also increase the speed of reviews and the strength of reviews in numbers. There could also be a curation/weighted vote added to reviews by qualified members. This could be done using an oracle built off of university graduation lists as they exist, but could be built out to higher validation criteria.
-Onboarding a group that likely does not have crypto could be done using a similar props system described by Austin Griffith in his etherjamjam project. By utilizing meta-transations and relayers, we can onboard users and give them a small amount of skin in the game while holding education on things like metamask until they understand the concepts.
-Rather than using their own ETH to give props for good reviews, users instead give an upvote of sorts that then translates into an eth reward from a pool. Somewhat similar to steemit and reddit.
-Funding for the incentive layers could come from a number of potential sources. A Curved Bonded Token could be issued or be built into a bonded token ecosystem, a pool of funds (donated, seeded, etc?) could payout a percentage of the funds based on activity, or potentially have a grant proposal through something like Moloch or similar. Could be crowdfunded, sponsored, or some combination.
-Proposals could also be evaluated and/or curated using a quadratic voting formula.
-Publishers could stake tokens to payout to reviewers.
-Documents would be hosted on IPFS.
+- By adding incentive layers to the process, we can recognize that contributions to the space is labour. This could have an effect 
+on the speed at which reviews could be done, though this is a theoretical effect based on the incentive layer affecting prioritization 
+and reduction in time required to meet financial needs.
+- Verifying large numbers of individuals with valid credentials to whitelist could also increase the speed of reviews and the 
+strength of reviews in numbers. There could also be a curation/weighted vote added to reviews by qualified members. This could be 
+done using an oracle built off of university graduation lists as they exist, but could be built out to higher validation criteria.
+- Onboarding a group that likely does not have crypto could be done using a similar props system described by Austin Griffith in 
+his etherjamjam project. By utilizing meta-transations and relayers, we can onboard users and give them a small amount of skin in 
+the game while holding education on things like metamask until they understand the concepts.
+- Rather than using their own ETH to give props for good reviews, users instead give an upvote of sorts that then translates into 
+an eth reward from a pool. Somewhat similar to steemit and reddit.
+- Funding for the incentive layers could come from a number of potential sources. A Curved Bonded Token could be issued or be built
+into a bonded token ecosystem, a pool of funds (donated, seeded, etc?) could payout a percentage of the funds based on activity, or
+potentially have a grant proposal through something like Moloch or similar. Could be crowdfunded, sponsored, or some combination.
+- Proposals could also be evaluated and/or curated using a quadratic voting formula.
+- Publishers could stake tokens to payout to reviewers.
+- Documents could be hosted on IPFS, or potentially github or a github clone? Need to design a way to host documents in a way that 
+can be commented on like google docs collaboration and commenting with an integrated weighted voting mechanism.
+- 
 
 Future:
-This could also work as a curated news aggregation or as a fact checking/sourcing on media.
-Both gets non-users into the ecosystem in a more streamlined way and allows them to contribute, while treating data as labor and remunerating reviews.
-
+- This could also work as a curated news aggregation or as a fact checking/sourcing on media.
+- Both gets non-users into the ecosystem in a more streamlined way and allows them to contribute, while treating data as labor and 
+remunerating reviews.
 
 Potential Issues:
-There should be a layer between the reward and the upvoter to reduce abuse and "buying influence" in the system.
-There could be some sort of delay, as well as/or a maximum number of upvotes per user per time period. Maybe based on their continued utility (a gamified leveling system maybe? Potential to be voted down or to lose levels from inactivity too)
+- There should be a layer between the reward and the upvoter to reduce abuse and "buying influence" in the system.
+- There could be some sort of delay, as well as/or a maximum number of upvotes per user per time period. Maybe based on their continued utility (a gamified leveling system maybe? Potential to be voted down or to lose levels from inactivity too)
+- Need a way to effectively evaluate trust/reputation in the system that can take both positive and negative hits. Staking mechanism?
 
 
 
