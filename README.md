@@ -72,6 +72,9 @@ https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets
 Blog post that goes into incentivized funding pools utilizing the curved token bonding concept: 
 https://tokeneconomy.co/on-bonding-curves-and-charitable-giving-9bf74b9343d2 
 
+A particularly relevant piece that Simon just posted on verified curation markets:
+https://medium.com/@simondlr/verified-curation-markets-graduating-token-bonding-curves-b3885cd1108
+
 Another example of pool funding for grants that might be similar is moloch that just went to the mainnet recently: 
 https://twitter.com/ameensol/status/1095958134458179584?s=19
 
