@@ -33,7 +33,6 @@ potentially have a grant proposal through something like Moloch or similar. Coul
 - Publishers could stake tokens to payout to reviewers.
 - Documents could be hosted on IPFS, or potentially github or a github clone? Need to design a way to host documents in a way that 
 can be commented on like google docs collaboration and commenting with an integrated weighted voting mechanism.
-- 
 
 Future:
 - This could also work as a curated news aggregation or as a fact checking/sourcing on media.
