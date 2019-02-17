@@ -5,11 +5,14 @@ This is simply a proposal. I have been thinking about this problem for a few mon
 
 If this project seems at all interesting or important to you, and you have some time or expertise you can lend, PRs are encouraged ;)
 
-Problems: 
-Peer review and in traditional journal format takes months to a year to go through the review process including revisions and     publication. Particularly in fast moving spaces like the blockchain space, this is not functional.
-Peer reviewed research is often paywalled, leaving the average person out of access without a payment or relationship with a major academic institution that pays for access.
-Researchers and reviewers are expected to contribute to this system without receiving any payment.
-Transitioning an extremely traditional process with serious implications to our notions of truth and fact is likely to be met with resistance, and with blockchain tech having friction of its own, onboarding new users needs to be as frictionless as possible.
+Problems:
+- Peer review and in traditional journal format takes months to a year to go through the review process including revisions and
+publication. Particularly in fast moving spaces like the blockchain space, this is not functional.
+- Peer reviewed research is often paywalled, leaving the average person out of access without a payment or relationship with a 
+major academic institution that pays for access.
+- Researchers and reviewers are expected to contribute to this system without receiving any payment.
+- Transitioning an extremely traditional process with serious implications to our notions of truth and fact is likely to be met 
+with resistance, and with blockchain tech having friction of its own, onboarding new users needs to be as frictionless as possible.
 
 Proposal: 
 By adding incentive layers to the process, we can recognize that contributions to the space is labour. This could have an effect on the speed at which reviews could be done, though this is a theoretical effect based on the incentive layer affecting prioritization and reduction in time required to meet financial needs.
