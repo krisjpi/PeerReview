@@ -47,6 +47,7 @@ Potential Issues:
 
 
 Notes:
+
 Peer review system that uses Austin Griffiths work for onboarding and giving props. Could enable well supported feedback to both rise 
 to the top and be remunerated in ETH. 
 
@@ -81,6 +82,7 @@ https://www.bsu.edu/news/dean-and-graduate-lists/graduate-list?search=true&term=
 https://www.nmu.edu/mc/GraduatesList 
 
 Incentivisation and Data as Labour from Radical Markets: (http://radicalmarkets.com/chapters/data-as-labor)
+
 In our chapter 5, we show that by treating Data as Labor (DaL) not only can we build a fairer and more equal society, but we can 
 also spur the development of technology and economic growth. At present, because data suppliers are not properly rewarded for their
 digital contributions, they lack the incentive or freedom to contribute the high-quality data that would most empower technology or
