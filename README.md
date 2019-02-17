@@ -73,3 +73,14 @@ IPFS doc hosting?
 Example graduate lists that could potentially be used as data for verifying credentials:
 https://www.bsu.edu/news/dean-and-graduate-lists/graduate-list?search=true&term=201810&lastName=&state=0&city=&county=0&degree=BA 
 https://www.nmu.edu/mc/GraduatesList 
+
+Incentivisation and Data as Labour from Radical Markets: (http://radicalmarkets.com/chapters/data-as-labor)
+In our chapter 5, we show that by treating Data as Labor (DaL) not only can we build a fairer and more equal society, but we can 
+also spur the development of technology and economic growth. At present, because data suppliers are not properly rewarded for their
+digital contributions, they lack the incentive or freedom to contribute the high-quality data that would most empower technology or
+develop their personal capacities to maximize their earnings and contributions to the digital economy. The current wasteful equilibrium
+results from the dominance of companies like Facebook and Google that thrive off free user data. But other companies, like Amazon, 
+Apple and especially Microsoft, have a different business model and could benefit from competing with Facebook and Google to offer 
+users a fairer deal. Awareness among users of their value would already make a large difference, as users might form data labor 
+unions to demand fair compensation. And users are increasingly being empowered by new definitions of property rights over data in 
+the European Union.
